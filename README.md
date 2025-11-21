@@ -46,9 +46,9 @@ score tracking, and game-over functionality.
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshot (Add your image)
+## 📸 Screenshot 
 
-To add an image in GitHub README:
+
 
    <img width="1262" height="870" alt="snake game" src="https://github.com/user-attachments/assets/c63918c2-7854-4193-8b18-f8c59b46607a" />
 
