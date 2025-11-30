@@ -9,12 +9,12 @@ score tracking, and game-over functionality.
 
 ## 🚀 Features
 
--   Smooth snake movement\
--   Random food generation\
--   Score counter\
--   Border collision detection\
--   Self-collision detection\
--   Responsive layout\
+-   Smooth snake movement
+-   Random food generation
+-   Score counter
+-   Border collision detection
+-   Self-collision detection
+-   Responsive layout
 -   Easy to understand and customize
 
 ------------------------------------------------------------------------
