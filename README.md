@@ -30,10 +30,10 @@ score tracking, and game-over functionality.
 
 ## 🎮 How to Play
 
--   Use **Arrow Keys** to move the snake\
--   Eat the **red food** to grow\
--   Avoid hitting the **walls**\
--   Avoid hitting **yourself**\
+-   Use **Arrow Keys** to move the snake
+-   Eat the **red food** to grow
+-   Avoid hitting the **walls**
+-   Avoid hitting **yourself**
 -   Try to get the **highest score!**
 
 ------------------------------------------------------------------------
