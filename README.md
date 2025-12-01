@@ -57,8 +57,8 @@ score tracking, and game-over functionality.
 
 ## 📥 How to Run
 
-1.  Download the project\
-2.  Open `index.html` in any browser\
+1.  Download the project
+2.  Open `index.html` in any browser
 3.  Start playing!
 
 ------------------------------------------------------------------------
